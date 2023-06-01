@@ -26,8 +26,11 @@ Complete the following steps:
 . Use sample_values for the marker size.
 . Use otu_ids for the marker colors.
 . Use otu_labels for the text values.
+<img width="689" alt="image" src="https://github.com/AbisolaOlakanmi/belly-button-challenge/assets/123206066/be1489fa-0ae8-4454-a13e-fd8b6a4b6c39">
 
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
+6. <img width="294" alt="image" src="https://github.com/AbisolaOlakanmi/belly-button-challenge/assets/123206066/96fedb58-a943-4203-9799-381c3c84e7de">
+
