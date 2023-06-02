@@ -59,7 +59,7 @@ function Plots(id) {
             marker: {
                 size: filtered.sample_values,
                 color: filtered.otu_ids,
-                colorscale: 'Portland'
+                
             },
             text: filtered.otu_labels,
         };
